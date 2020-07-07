@@ -168,6 +168,10 @@ header .navbar-nav li .active:after{
                banner-part css start
 =====================================================*/
 
+#banner-part{
+    margin-bottom: -70px;
+}
+
 #banner-part .prev{
     position: absolute;
     top: 50%;
@@ -344,7 +348,8 @@ header .navbar-nav li .active:after{
 =====================================================*/
 
 #about-us-part{
-    padding-top: 50px;
+    padding-top:120px;
+    margin-bottom: -70px;
 }
 
 #about-us-part .circle-main{
@@ -531,13 +536,15 @@ header .navbar-nav li .active:after{
 =====================================================*/
 
 #our-portfolio{
-    padding-top: 50px;
+    padding-top:74px;
+    margin-bottom: -70px;
 }
 
 #our-portfolio .background{
     background: url(../images/portfolio-part/portfolio-background-img.png) no-repeat center;
     background-size: cover;
     clip-path: polygon(0 15%, 100% 0, 100% 85%, 0% 100%);
+    background-attachment: fixed;
 }
 
 #our-portfolio .overlay{
@@ -634,10 +641,9 @@ header .navbar-nav li .active:after{
 =====================================================*/
 
 #our-services-part{
-    margin-bottom:20px;
     padding-bottom: 25px;
     position: relative;
-    padding-top: 50px;
+    padding-top:120px;
 }
 
 #our-services-part .chain-shape{
@@ -795,7 +801,8 @@ header .navbar-nav li .active:after{
 =====================================================*/
 
 #testimonial-part{
-    padding-top: 50px;
+    padding-top:74px;
+    margin-bottom: -70px;
 }
 
 #testimonial-part .background{
@@ -994,7 +1001,7 @@ header .navbar-nav li .active:after{
 =====================================================*/
 
 #pricing-plan-part{
-    padding-top: 50px;
+    padding-top:120px;
 }
 
 #pricing-plan-part .item{
@@ -1141,6 +1148,7 @@ header .navbar-nav li .active:after{
 
 #counter-up-part{
     padding-top: 50px;
+    margin-bottom: -70px;
 }
 
 #counter-up-part .background{
@@ -1212,7 +1220,7 @@ header .navbar-nav li .active:after{
 =====================================================*/
 
 #our-team{
-    padding-top: 50px;
+    padding-top:120px;
 }
 
 #our-team .container{
