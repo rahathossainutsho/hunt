@@ -648,7 +648,7 @@ header .navbar-nav li .active:after{
 
 #our-services-part .chain-shape{
     position: absolute;
-    top:200px;
+    top:315px;
     left: 50%;
     transform: translateX(-50%);
 }
@@ -672,7 +672,6 @@ header .navbar-nav li .active:after{
     left: 50%;
     cursor: pointer;
     color: #111111;
-    z-index: 9999;
     background: #fff;
 }
 
